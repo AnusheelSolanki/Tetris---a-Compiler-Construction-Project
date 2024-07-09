@@ -1,4 +1,4 @@
-# Tetris Compiler by 2020B3A70541G
+# Tetris Compiler by Anusheel Solanki
 
 This project creates an interactive tetris games and offers the following features:
 
@@ -33,7 +33,3 @@ In case the module pygame is not installed run the following command:
 Run the make file by running `make run` in the terminal.
 
 Or alternatively type `python3 tetris_game.py`
-
-## Acknowledgment
-
-Contributions from Jibran, Ashray, Mohammed Aman.
